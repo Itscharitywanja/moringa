@@ -1,13 +1,24 @@
 h1 {
     color: blue
-     
-}
+    
+     }
 p {
-    color: brown
+    color: white
 }
-.important a {
-    background-color:chocolate
+.important {
+    display: inline;
 }
 h2 {
-    color:red
-  }
+    color:violet
+    
+}
+body {
+    background-color:black
+}
+
+ul {
+    color:whitesmoke
+}
+.unimportant {
+display:inline-flex;
+}
