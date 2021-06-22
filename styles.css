@@ -20,3 +20,7 @@ ul {
 .unimportant {
  display:inline-flex;
 }
+img {
+    float:left;
+    background-color: blue;
+}
