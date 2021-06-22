@@ -18,9 +18,12 @@ ul {
     color:whitesmoke
 }
 .unimportant {
- display:inline-flex;
+display:flex;
 }
 img {
     float:left;
     background-color: blue;
+}
+ol {
+    color: whitesmoke
 }
