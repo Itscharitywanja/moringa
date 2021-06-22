@@ -4,12 +4,5 @@
 - [@Itscharitywanja](https://www.github.com/Itscharitywanja)
 ### License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-#### Faq
-### Question 1
 
-My Education
-
-#### Question 2
-
-My interests
 
